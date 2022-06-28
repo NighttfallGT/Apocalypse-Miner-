@@ -1,4 +1,4 @@
-# Apocalypse-Miner-
+# Apocalypse-Miner💎
 Based on c# and c++
 
 Please read before use:
